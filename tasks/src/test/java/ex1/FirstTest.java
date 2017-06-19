@@ -32,7 +32,6 @@ public class FirstTest {
     public void stop(){
         driver.quit();
         driver = null;
-
     }
 
 }
